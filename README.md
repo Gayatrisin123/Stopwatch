@@ -1,6 +1,4 @@
-# StopWatch
-
-
+⏱️ React Stopwatch
 A simple yet functional stopwatch app built using React.js. This project demonstrates the use of React hooks like useState and useEffect to build a responsive and interactive timer. You can start, stop, reset, and resume the timer with ease.
 
 🚀 Features
@@ -18,7 +16,6 @@ React.js (with Hooks)
 HTML & CSS
 
 JavaScript (ES6+)
-
 
 
 
